@@ -1,0 +1,43 @@
+.box{
+    border: 2px solid black;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+
+.infoSim{
+    
+    display: flex;
+    align-items: center;
+}
+
+.nombreBanco{
+    border: 2px solid black;
+    width: 30vw;
+    display: inline-block;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px solid black;
+    height: 423.438px;
+    width: 70vw;
+    
+}
+
+.input input{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+    width: 50vw;
+    margin-left: 180px;
+}
+
+.input label{
+    display: flex;
+    justify-content: center;
+}
